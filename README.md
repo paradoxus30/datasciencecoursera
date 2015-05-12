@@ -1,4 +1,4 @@
-# Repo name: datasciencecoursera (https://github.com/paradoxus30/datasciencecoursera)
+# Repo name: datasciencecoursera
 
 ## Repository for Coursera The Data Scientist's Toolbox
 
